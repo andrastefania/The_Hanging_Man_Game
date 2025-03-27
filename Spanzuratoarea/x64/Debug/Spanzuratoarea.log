@@ -1,0 +1,4 @@
+﻿  Spanzuratoareacpp.cpp
+D:\A_FACULTATE\Spanzuratoarea\Spanzuratoarea\Spanzuratoareacpp.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\A_FACULTATE\Spanzuratoarea\Spanzuratoarea\Spanzuratoareacpp.cpp(37,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Spanzuratoarea.vcxproj -> D:\A_FACULTATE\Spanzuratoarea\x64\Debug\Spanzuratoarea.exe
